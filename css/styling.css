@@ -1,0 +1,13 @@
+
+body{
+    background-color: #c4cdd5;
+    h1{color: red;}
+    h2{color: blue;}
+    h1{text-align: center;}
+
+}
+body {
+block-vape1{display: inline;}
+block-desc1{display: inline;}
+block-price1{display: inline;}
+}
